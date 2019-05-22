@@ -1,6 +1,6 @@
-### SHN
+### node-hello
 
-`SHN` -- Show Hostname
+Default Port: `8080`
 
 A Nodejs demo web application for show login user and hostname
 
